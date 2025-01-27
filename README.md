@@ -74,7 +74,7 @@ Certifique-se de que o arquivo `config.env` não seja adicionado ao controle de 
 Execute o script principal para processar emails:
 
 ```bash
-python src/email_processing.py
+python src/fwd_email.py
 ```
 
 ### Testes
