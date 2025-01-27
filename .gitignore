@@ -1,0 +1,17 @@
+# .gitignore
+# Arquivos a serem ignorados pelo controle de versão
+
+# Arquivo de configuração sensível
+test.env
+
+# Logs e arquivos temporários
+*.log
+temp.pdf
+
+# Arquivos de cache
+__pycache__/
+*.py[cod]
+
+# Outros
+env/
+.idea/
